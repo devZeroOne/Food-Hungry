@@ -2,7 +2,6 @@
   margin: 0px;
   padding: 0px;
   box-sizing: border-box;
-  
 }
 
 .online_button {
@@ -16,7 +15,6 @@
 }
 .medu_card{
   border-radius: 30px;
-  border: none!important;
 }
 .medu_card_body{
   border-radius:0 0 30px 30px;
